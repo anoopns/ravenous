@@ -4,3 +4,9 @@
     flex-wrap: wrap;
     margin: 4.4rem 10%;
   }
+
+.ErrorMessage {
+  text-align: center;
+  color: red;
+  font-size: small;
+}
